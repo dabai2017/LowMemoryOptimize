@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item
+        android:id="@+id/cool"
+        android:title="开发:酷安@娃娃是我"/>
+    
+</menu>
